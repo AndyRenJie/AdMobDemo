@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "606144171831",
+    "firebase_url": "https://admobdemo-10e02.firebaseio.com",
+    "project_id": "admobdemo-10e02",
+    "storage_bucket": "admobdemo-10e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606144171831:android:3d98cb56da2575c9",
+        "android_client_info": {
+          "package_name": "com.example.administrator.admobdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606144171831-ketvumlprbeii2goh6ns99b9bvnusakf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.admobdemo",
+            "certificate_hash": "9d041c308696e4f16d75a44de1096d2271729596"
+          }
+        },
+        {
+          "client_id": "606144171831-mjtcr0shgg6f34cc6blvtlupe3gbjmb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm7yzqfarFglstE02bgGpCIStSok_coow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606144171831-mjtcr0shgg6f34cc6blvtlupe3gbjmb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606144171831:android:5ca5c3d13df8748c",
+        "android_client_info": {
+          "package_name": "com.shanga.walli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606144171831-mjtcr0shgg6f34cc6blvtlupe3gbjmb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm7yzqfarFglstE02bgGpCIStSok_coow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdMobDemo</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1736034326014887/6214666257</string>
+    <string name="banner_native_ad_unit_id">ca-app-pub-1736034326014887/3121599053</string>
+    <string name="native_express_ad_unit_id_2">ca-app-pub-1736034326014887/4947925854</string>
+    <string name="native_advanved_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1736034326014887/7691399450</string>
+    <string name="video_ad_unit_ad">ca-app-pub-1736034326014887/4598332255</string>
+    <string name="admob_app_id">ca-app-pub-1736034326014887~7831000259</string>
+</resources>
